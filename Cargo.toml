@@ -1,0 +1,23 @@
+[package]
+name = "vuln_rust"
+version = "0.1.0"
+authors = ["Firo Solutions <info@firosolutions.com>"]
+
+
+[dependencies]                 
+ar = "0.6.0"                   
+smallvec = "1.2"               
+chttp = "0"                    
+renderdoc = "1.2"              
+blake2 = "1.2"                 
+clogger = "0.1"                
+failure = "0.1"                
+indicatif = "0.9"              
+lazy_static = "1.0.0"          
+log = "0.4"                    
+regex = "1.0"                  
+structopt = "0.2"              
+tar = "0.4.20"                 
+xdg = "^2.1"                   
+xz2 = "0.1.4"                  
+protobuf = "1.2"               
